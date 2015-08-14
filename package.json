@@ -1,0 +1,19 @@
+{
+  "name": "stock-ticker",
+  "version": "0.0.1",
+  "author": "Gonzalo Vazquez",
+  "description": "A simple stock ticker for your phone",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Gonzalo Vazquez",
+      "email": "gonzalo.segura1@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzalovazquez/stock-ticker.git"
+  },
+  "devDependencies": {
+  }
+}
